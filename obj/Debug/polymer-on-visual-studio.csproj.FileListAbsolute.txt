@@ -1,0 +1,4 @@
+C:\Users\Yoseph\Documents\GitHub\polymer-on-visual-studio\polymer-on-visual-studio\bin\polymer-on-visual-studio.dll
+C:\Users\Yoseph\Documents\GitHub\polymer-on-visual-studio\polymer-on-visual-studio\bin\polymer-on-visual-studio.pdb
+C:\Users\Yoseph\Documents\GitHub\polymer-on-visual-studio\polymer-on-visual-studio\obj\Debug\polymer-on-visual-studio.dll
+C:\Users\Yoseph\Documents\GitHub\polymer-on-visual-studio\polymer-on-visual-studio\obj\Debug\polymer-on-visual-studio.pdb
